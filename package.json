@@ -1,0 +1,26 @@
+{
+  "name": "fp",
+  "version": "1.0.0",
+  "description": "prototype binary code Future Precedent LLC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxu0421/FP.git"
+  },
+  "keywords": [
+    "token",
+    "ICO"
+  ],
+  "author": "Future Precedent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxu0421/FP/issues"
+  },
+  "homepage": "https://github.com/cxu0421/FP#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.26"
+  }
+}
